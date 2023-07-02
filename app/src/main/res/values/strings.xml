@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kyrsovaya_Dronov</string>
+    <string name="Enter">Войти</string>
+    <string name="calculator">Калькулятор возраста</string>
+    <string name="pswd">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="enterDate">Выберите свою дату рождения</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="age">Ваш возраст</string>
+    <string name="birthday">До вашего дня рождения</string>
+    <string name="developer">Разработчик Дронов РИБО-03-21</string>
+
+
+    <string name="years"> лет(год), </string>
+    <string name="months">До вашего дня рождения</string>
+    <string name="minutes"> минут(минута), </string>
+    <string name="seconds"> секунд(секунда) </string>
+    <string name="days"> дней(день), </string>
+    <string name="hours"> часов(часа), </string>
+
+    <string name="noBirth">Вы еще не родились!</string>
+    <string name="todayBirth">Вы родились сегодня!</string>
+    <string name="birthToday">Сегодня день рождения!</string>
+    <string name="oneDayLeft">Остался 1 день!</string>
+    <string name="leftDay"> осталось дня</string>
+    <string name="leftDays">осталось дней</string>
+
+
+</resources>
